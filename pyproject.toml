@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
-authors = ["darkwolf <darkwolf1990janary@gmail.com>"]
+description = "difference calculator"
+authors = ["Badizawr <bravis13@gmail.com>"]
 readme = "README.md"
 packages = [{include = "python_project_50"}]
 
